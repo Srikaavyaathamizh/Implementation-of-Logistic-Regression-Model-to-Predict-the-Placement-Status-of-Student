@@ -113,5 +113,13 @@ X
 
 ![Screenshot 2024-10-16 173600](https://github.com/user-attachments/assets/e6c433da-88fe-47e1-bf90-fe4cf4a1b3fe)
 
+![Screenshot 2024-10-16 173751](https://github.com/user-attachments/assets/badc05c5-66f3-4e21-a178-fc077dff98f5)
+
+![Screenshot 2024-10-16 173807](https://github.com/user-attachments/assets/3c4a4fdc-97f4-4cb5-a3c8-a180e9b2b454)
+
+![Screenshot 2024-10-16 173819](https://github.com/user-attachments/assets/911e04a2-d794-43a9-a510-7a96ad62a841)
+
+![Screenshot 2024-10-16 173824](https://github.com/user-attachments/assets/4883df5e-aa25-4f4c-b15d-1bb8da0b9f86)
+
 ## Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
